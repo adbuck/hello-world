@@ -3,4 +3,4 @@ just another repository
 
 Hello out there,
 
-I'm learning the basis of GitHub.  How Exciting for me!!!
+I'm learning the basics of GitHub.  How Exciting for me!!!
